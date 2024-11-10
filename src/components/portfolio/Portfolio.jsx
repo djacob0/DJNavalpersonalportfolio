@@ -16,7 +16,7 @@ const Portfolio = () => {
       type:"A budget tracker Web App.",
       team:"Side project during college days.",
       teckStack:"React | NodeJs | ExpressJs | Javascript",
-      github: 'https://github.com/pallav7221/Medium-Clone',
+      github: 'https://github.com/djacob0/DJexpensetracker',
     },
     {
       id: 2,
@@ -26,15 +26,15 @@ const Portfolio = () => {
       type:"A Guitar Shop Web App",
       team:"Side project during weekends.",
       teckStack:"HTML | React | Redux | Babel",
-      github: 'https://github.com/Jasmine-Shaikh/Banggood-Clone/tree/main/banggood-clone',
+      github: 'https://github.com/djacob0/DJcustomguitar',
     },
     {
       id: 3,
       title: 'DJ First personal portfolio',
       des:"First personal portfolio for employment purposes and learnings.",
       img: IMG2,
-      teckStack:"HTML | CSS | JavaScript | React",
-      github: 'https://github.com/OfficialSiddharthBisht/Lumen5-Video-Maker-Clone',
+      teckStack:"HTML | CSS | JavaScript | React | Jest",
+      github: 'https://github.com/djacob0/DJnavalportfolio',
     }
     
   ];
