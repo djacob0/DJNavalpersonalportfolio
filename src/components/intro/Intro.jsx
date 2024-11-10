@@ -35,7 +35,7 @@ const Intro = () => {
             HTML, CSS.
             <br/> I am also a quick learner and a team player who
             is passionate about writing clean and efficient code.</p>
-          <a href="https://www.canva.com/design/DAGVSDIqMjE/bTmG7XC4LN_3UwfoNmy3_g/edit?utm_content=DAGVSDIqMjE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" className="btn btn-primary">Resume</a>
+          <a href="https://www.canva.com/design/DAGVSDIqMjE/bTmG7XC4LN_3UwfoNmy3_g/edit?utm_content=DAGVSDIqMjE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" className="btn btn-primary">Biodata</a>
         </div>
       </div>
     </section>

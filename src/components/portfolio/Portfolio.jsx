@@ -30,7 +30,7 @@ const Portfolio = () => {
     },
     {
       id: 3,
-      title: 'DJ First personal portfolio',
+      title: 'First personal portfolio',
       des:"First personal portfolio for employment purposes and learnings.",
       img: IMG2,
       teckStack:"HTML | CSS | JavaScript | React | Jest",
