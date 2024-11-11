@@ -12,7 +12,7 @@ const Experience = () => {
             <h3>Payroll PH & ESS4</h3>
             <p>Payroll PH is the one-stop destination for cutting-edge Payroll Software in the Philippines,
               ensuring accuracy, efficiency, and streamlined payroll processing. PPH is another reliable provider of cloud-based HR and payroll software solutions.
-              It is known for its comprehensive tools that streamline and automate HR processes. Dedicated to efficient, accurate, and secure payroll management, Salarium simplifies workforce management for businesses of all sizes.</p>
+              It is known for its comprehensive tools that streamline and automate HR processes. Dedicated to efficient, accurate, and secure payroll management, simplifies workforce management for businesses of all sizes.</p>
             <h4>Responsibilities as a Full-Stack Developer :</h4>
             <p>1. Test and debug web applications, and resolve issues that arise
               during development.

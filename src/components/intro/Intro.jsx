@@ -29,13 +29,11 @@ const Intro = () => {
             </article>
           </div>
           {/* <p>I’ve spent the last several months in a remote environment, working with <b>HTML, CSS, JavaScript, React, Redux </b> etc. building everything from landing pages to APIs under the guidence of <b>MASAI SCHOOL</b> .</p> */}
-          <p>Passionate full-stack developer with experience in
+          <p>Passionate full-stack developer based in Metro Manila, Philippines, with experience in
             developing and enhancing applications using a wide range of front-end and back-end tools like Ruby, Node JS,
-            JavaScript, Ruby on Rails, Express JS, MS SQL, Webix, React,
-            HTML, CSS.
-            <br/> I am also a quick learner and a team player who
+            JavaScript, Ruby on Rails, Express JS, MS SQL, Webix, React, HTML, CSS. I am also a quick learner and a team player who
             is passionate about writing clean and efficient code.</p>
-          <a href="https://www.canva.com/design/DAGVSDIqMjE/bTmG7XC4LN_3UwfoNmy3_g/edit?utm_content=DAGVSDIqMjE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" className="btn btn-primary">Biodata</a>
+          <a href="#portfolio" className="btn btn-primary">My works</a>
         </div>
       </div>
     </section>
