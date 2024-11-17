@@ -6,7 +6,7 @@ const Experience = () => {
     <>
       <section id="experience">
         <h5>Work experience I have</h5>
-        <h2>Professional Experience</h2>
+        <h2>Professional Experience and Freelance</h2>
         <div className="container experience__container">
           <div className="experience__frontend">
             <h3>Payroll PH & ESS4</h3>
@@ -33,6 +33,21 @@ const Experience = () => {
               5. Enhance and coordinate with Project Managers and Support
               for better user experience. this includes organizing reports
               and other tickets investigation related to performance optimization.
+            </p>
+          </div>
+          <br></br>
+        </div>
+        <div className="container experience__container">
+          <div className="experience__frontend">
+            <h3>Freelance</h3>
+            <p>In collaboration with a client referred by a trusted professional network, 
+              I entered into a Non-Disclosure Agreement (NDA) to provide specialized services over a 12-month period. This engagement required a high degree of confidentiality, trust, and 
+              discretion, ensuring that sensitive information and proprietary data were fully protected throughout the course of the project.</p>
+            <h4>Responsibilities :</h4>
+            <p>In my role, I collaborated closely with UI/UX designers to translate wireframes and design prototypes into fully functional, high-quality code. 
+              I am well-versed in optimizing front-end performance, enhancing page load times, and ensuring cross-browser compatibility. 
+              I also prioritize accessibility and usability, ensuring that applications are easy to navigate and inclusive for all users.
+            <br />
             </p>
           </div>
         </div>
